@@ -1,0 +1,5 @@
+Cryptography Assignment.
+Was completed in Python so these files were never submitted.
+'./cipher <cipherName> <key> <ENC/DEC> <inputfile> <outputfile>'
+Caesar, Monoalphabetic, Vigenere work. Assignment assumes that input text does not have punctuations, different capitalization, or spaces.
+
